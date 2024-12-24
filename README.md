@@ -186,8 +186,8 @@ b. Жилье для приезжих (2-3 файла)
 
 ### 6. Визуализация
 - Построение картографических визуализаций с использованием **matplotlib** и **geopandas**.
-![Image alt](https://github.com/{dashageraa}/{repository}/raw/{branch}/{path}/image.png)
-
+![Image alt](https://github.com/{dashageraa}/{lagolowo}/raw/{branch}/{path}/image.png)
+https://github.com/lavande-epices/lagolowo/blob/master/docs/hyp1/1.1.png
 ## Структура репозитория
 - **Jupyter Notebook**: основной файл с кодом для выполнения анализа.
 - **Данные**: входные и выходные данные, включая географические границы, графы сетей и сервисы.
