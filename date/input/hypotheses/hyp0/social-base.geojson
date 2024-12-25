@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "social-base",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 1, "name": "Библиотека МКУ Центр культуры и спорта", "type": "library" }, "geometry": { "type": "Point", "coordinates": [ 30.0205507, 59.7072645 ] } },
+{ "type": "Feature", "properties": { "fid": 2, "name": "Почтовое отделение № 188517", "type": "post_office" }, "geometry": { "type": "Point", "coordinates": [ 30.0188981, 59.7077412 ] } },
+{ "type": "Feature", "properties": { "fid": 3, "name": "Дом культуры", "type": "community_centre" }, "geometry": { "type": "Point", "coordinates": [ 30.017772581776022, 59.706682882054956 ] } }
+]
+}
