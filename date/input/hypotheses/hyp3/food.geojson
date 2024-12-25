@@ -1,0 +1,30 @@
+{
+"type": "FeatureCollection",
+"name": "food-3",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 1, "name": "Семишагофф", "type": "food" }, "geometry": { "type": "Point", "coordinates": [ 30.0192264, 59.7072805 ] } },
+{ "type": "Feature", "properties": { "fid": 2, "name": "Магнит", "type": "food" }, "geometry": { "type": "Point", "coordinates": [ 30.0154204, 59.7075766 ] } },
+{ "type": "Feature", "properties": { "fid": 3, "name": "Пятёрочка", "type": "food" }, "geometry": { "type": "Point", "coordinates": [ 30.0146036, 59.7081085 ] } },
+{ "type": "Feature", "properties": { "fid": 4, "name": "нд", "type": "food" }, "geometry": { "type": "Point", "coordinates": [ 30.0149988, 59.7075763 ] } },
+{ "type": "Feature", "properties": { "fid": 5, "name": "2", "type": "food" }, "geometry": { "type": "Point", "coordinates": [ 30.033605560508114, 59.711246203731143 ] } },
+{ "type": "Feature", "properties": { "fid": 6, "name": "2", "type": "food" }, "geometry": { "type": "Point", "coordinates": [ 30.033605560508114, 59.711246203731143 ] } },
+{ "type": "Feature", "properties": { "fid": 7, "name": "2", "type": "food" }, "geometry": { "type": "Point", "coordinates": [ 30.033605560508114, 59.711246203731143 ] } },
+{ "type": "Feature", "properties": { "fid": 8, "name": "2", "type": "food" }, "geometry": { "type": "Point", "coordinates": [ 30.033605560508114, 59.711246203731143 ] } },
+{ "type": "Feature", "properties": { "fid": 9, "name": "2", "type": "food" }, "geometry": { "type": "Point", "coordinates": [ 30.033605560508114, 59.711246203731143 ] } },
+{ "type": "Feature", "properties": { "fid": 10, "name": "2", "type": "food" }, "geometry": { "type": "Point", "coordinates": [ 30.033605560508114, 59.711246203731143 ] } },
+{ "type": "Feature", "properties": { "fid": 11, "name": "2", "type": "food" }, "geometry": { "type": "Point", "coordinates": [ 30.033605560508114, 59.711246203731143 ] } },
+{ "type": "Feature", "properties": { "fid": 12, "name": "2", "type": "food" }, "geometry": { "type": "Point", "coordinates": [ 30.033605560508114, 59.711246203731143 ] } },
+{ "type": "Feature", "properties": { "fid": 13, "name": "2", "type": "food" }, "geometry": { "type": "Point", "coordinates": [ 30.033605560508114, 59.711246203731143 ] } },
+{ "type": "Feature", "properties": { "fid": 14, "name": "2", "type": "food" }, "geometry": { "type": "Point", "coordinates": [ 30.033605560508114, 59.711246203731143 ] } },
+{ "type": "Feature", "properties": { "fid": 15, "name": "3", "type": "food" }, "geometry": { "type": "Point", "coordinates": [ 30.033605560508114, 59.711246203731143 ] } },
+{ "type": "Feature", "properties": { "fid": 16, "name": "3", "type": "food" }, "geometry": { "type": "Point", "coordinates": [ 30.033605560508114, 59.711246203731143 ] } },
+{ "type": "Feature", "properties": { "fid": 17, "name": "3", "type": "food" }, "geometry": { "type": "Point", "coordinates": [ 30.033605560508114, 59.711246203731143 ] } },
+{ "type": "Feature", "properties": { "fid": 18, "name": "3", "type": "food" }, "geometry": { "type": "Point", "coordinates": [ 30.033605560508114, 59.711246203731143 ] } },
+{ "type": "Feature", "properties": { "fid": 19, "name": "3", "type": "food" }, "geometry": { "type": "Point", "coordinates": [ 30.033605560508114, 59.711246203731143 ] } },
+{ "type": "Feature", "properties": { "fid": 20, "name": "3", "type": "food" }, "geometry": { "type": "Point", "coordinates": [ 30.033605560508114, 59.711246203731143 ] } },
+{ "type": "Feature", "properties": { "fid": 21, "name": "3", "type": "food" }, "geometry": { "type": "Point", "coordinates": [ 30.033605560508114, 59.711246203731143 ] } },
+{ "type": "Feature", "properties": { "fid": 22, "name": "3", "type": "food" }, "geometry": { "type": "Point", "coordinates": [ 30.033605560508114, 59.711246203731143 ] } },
+{ "type": "Feature", "properties": { "fid": 23, "name": "3", "type": "food" }, "geometry": { "type": "Point", "coordinates": [ 30.033605560508114, 59.711246203731143 ] } }
+]
+}
