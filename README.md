@@ -81,6 +81,7 @@
 - Построение картографических визуализаций с использованием **matplotlib**, **geopandas** и **rTIM**.
 Гипотеза 1:
 ![Image alt](https://github.com/{lavande-epices}/{lagolowo}/raw/{master}/{docs}/{hyp1}/2.1.png)
+![screenshot_before](docs/hyp1/2.1.png)
 
 ## Структура репозитория
 - **Jupyter Notebook**: основной файл с кодом для выполнения анализа.
