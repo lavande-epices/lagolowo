@@ -1,0 +1,25 @@
+{
+"type": "FeatureCollection",
+"name": "bus stop-123",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "1", "type": "bus stop" }, "geometry": { "type": "Point", "coordinates": [ 30.029099759691491, 59.709448598894099 ] } },
+{ "type": "Feature", "properties": { "name": "2", "type": "bus stop" }, "geometry": { "type": "Point", "coordinates": [ 30.02815800672802, 59.709358511373047 ] } },
+{ "type": "Feature", "properties": { "name": "3", "type": "bus stop" }, "geometry": { "type": "Point", "coordinates": [ 30.036893577320253, 59.711332191519922 ] } },
+{ "type": "Feature", "properties": { "name": "4", "type": "bus stop" }, "geometry": { "type": "Point", "coordinates": [ 30.037997701484333, 59.711692518898651 ] } },
+{ "type": "Feature", "properties": { "name": "5", "type": "bus stop" }, "geometry": { "type": "Point", "coordinates": [ 30.048941520404714, 59.713993609062555 ] } },
+{ "type": "Feature", "properties": { "name": "6", "type": "bus stop" }, "geometry": { "type": "Point", "coordinates": [ 30.049810206327919, 59.714460358938155 ] } },
+{ "type": "Feature", "properties": { "name": "Лаголово", "type": "bus_stop" }, "geometry": { "type": "Point", "coordinates": [ 30.018762453252076, 59.710949037006493 ] } },
+{ "type": "Feature", "properties": { "name": "Лаголово - Центр", "type": "bus_stop" }, "geometry": { "type": "Point", "coordinates": [ 30.0185869, 59.7072259 ] } },
+{ "type": "Feature", "properties": { "name": "Иоанновское кладбище", "type": "bus_stop" }, "geometry": { "type": "Point", "coordinates": [ 30.001729969544328, 59.686796336190049 ] } },
+{ "type": "Feature", "properties": { "name": "Иоанновское кладбище", "type": "bus_stop" }, "geometry": { "type": "Point", "coordinates": [ 30.002411414468369, 59.686025980035026 ] } },
+{ "type": "Feature", "properties": { "name": "Лаголово", "type": "bus_stop" }, "geometry": { "type": "Point", "coordinates": [ 30.017319233739624, 59.710050167497123 ] } },
+{ "type": "Feature", "properties": { "name": "Октябрьский городок", "type": "bus_stop" }, "geometry": { "type": "Point", "coordinates": [ 30.0254841, 59.7293903 ] } },
+{ "type": "Feature", "properties": { "name": "Октябрьский городок", "type": "bus_stop" }, "geometry": { "type": "Point", "coordinates": [ 30.026873172630911, 59.729583163094276 ] } },
+{ "type": "Feature", "properties": { "name": "Молочно-товарная ферма", "type": "bus_stop" }, "geometry": { "type": "Point", "coordinates": [ 29.986112533399712, 59.728086177190924 ] } },
+{ "type": "Feature", "properties": { "name": "Молочно-товарная ферма", "type": "bus_stop" }, "geometry": { "type": "Point", "coordinates": [ 29.984082, 59.7281722 ] } },
+{ "type": "Feature", "properties": { "name": "дорога на Капорское", "type": "bus_stop" }, "geometry": { "type": "Point", "coordinates": [ 29.9971819, 59.7284778 ] } },
+{ "type": "Feature", "properties": { "name": "дорога на Капорское", "type": "bus_stop" }, "geometry": { "type": "Point", "coordinates": [ 29.9962485, 59.7285454 ] } },
+{ "type": "Feature", "properties": { "name": null, "type": "bus_stop" }, "geometry": { "type": "Point", "coordinates": [ 29.996768647801918, 59.728893768904136 ] } }
+]
+}

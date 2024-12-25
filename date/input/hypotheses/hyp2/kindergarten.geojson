@@ -1,0 +1,18 @@
+{
+"type": "FeatureCollection",
+"name": "kindergarten-123",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Детский сад № 19", "capacity": 265, "amenity": "kindergarden", "area": 230 }, "geometry": { "type": "Point", "coordinates": [ 30.01330016421462, 59.704394548493291 ] } },
+{ "type": "Feature", "properties": { "name": "Детский сад от Самолёта", "capacity": 200, "amenity": "kindergarden", "area": 180 }, "geometry": { "type": "Point", "coordinates": [ 30.076723472165252, 59.7138562842147 ] } },
+{ "type": "Feature", "properties": { "name": "Детский сад от А101 1", "capacity": 250, "amenity": "kindergarden", "area": 200 }, "geometry": { "type": "Point", "coordinates": [ 30.069151833985586, 59.709689880136999 ] } },
+{ "type": "Feature", "properties": { "name": "Детский сад от А101 2", "capacity": 250, "amenity": "kindergarden", "area": 200 }, "geometry": { "type": "Point", "coordinates": [ 30.064664937286526, 59.706965692855427 ] } },
+{ "type": "Feature", "properties": { "name": "Детский сад от А101 3", "capacity": 250, "amenity": "kindergarden", "area": 200 }, "geometry": { "type": "Point", "coordinates": [ 30.071014697347252, 59.707005754433098 ] } },
+{ "type": "Feature", "properties": { "name": "Детский сад от А101 4", "capacity": 250, "amenity": "kindergarden", "area": 200 }, "geometry": { "type": "Point", "coordinates": [ 30.073859069361834, 59.709569695403992 ] } },
+{ "type": "Feature", "properties": { "name": "Детский сад от А101 5", "capacity": 250, "amenity": "kindergarden", "area": 200 }, "geometry": { "type": "Point", "coordinates": [ 30.073398361218626, 59.706945662066595 ] } },
+{ "type": "Feature", "properties": { "name": "Детский сад от А101 6", "capacity": 250, "amenity": "kindergarden", "area": 200 }, "geometry": { "type": "Point", "coordinates": [ 30.081350584386161, 59.710110526702536 ] } },
+{ "type": "Feature", "properties": { "name": "Детский сад от А101 7", "capacity": 250, "amenity": "kindergarden", "area": 200 }, "geometry": { "type": "Point", "coordinates": [ 30.077043964786615, 59.708968771738938 ] } },
+{ "type": "Feature", "properties": { "name": "Детский сад от А101 8", "capacity": 250, "amenity": "kindergarden", "area": 200 }, "geometry": { "type": "Point", "coordinates": [ 30.067829801922471, 59.706525015501057 ] } },
+{ "type": "Feature", "properties": { "name": "Дет сад", "capacity": 420, "amenity": "kindergarten", "area": 1380 }, "geometry": { "type": "Point", "coordinates": [ 30.035708267555837, 59.709108721978133 ] } }
+]
+}
