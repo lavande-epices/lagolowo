@@ -82,6 +82,9 @@
 Гипотеза 1:
 ![screenshot_before](docs/hyp1/1.1.png)
 ![screenshot_before](docs/hyp1/2.1.png)
+![Результаты](docs/project_capacity_moscow.png)
+![Точность](docs/accuracy_spb_moscow.png)
+
 
 ## Структура репозитория
 - **Jupyter Notebook**: основной файл с кодом для выполнения анализа.
